@@ -1,0 +1,13 @@
+title: "The Frontend Bible"
+summary: "初心者から上級者まで、フロントエンド開発についての書籍の分冊切断面定義（とそのサンプル）"
+topics: [HTML5, CSS3, JavaScript, フロントエンド開発, ウェブデザイン]
+published: false
+price: 0 # 有料の場合200〜5000
+toc_depth: 2
+allow_override: true
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+ - frontend-bible-gospels-env
+ - frontend-bible-gospels-web
+ - frontend-bible-gospels-css
+ - frontend-bible-gospels-js-runtime

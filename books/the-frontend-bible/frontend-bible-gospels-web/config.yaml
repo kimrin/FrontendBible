@@ -1,0 +1,16 @@
+title: "Frontend Bible: Gospels 2 - Web / HTML"
+summary: "Webの土台とHTMLの正しい使い方。文書構造、フォーム、アクセシビリティの入口まで。"
+topics: ["frontend", "html", "web", "a11y", "beginner"]
+published: false
+toc_depth: 2
+price: 0
+chapters:
+  - intro
+  - how-the-web-works
+  - html-essentials
+  - semantic-html
+  - forms-basics
+  - media-and-embed
+  - accessibility-intro
+  - wrap-up
+allow_override: true

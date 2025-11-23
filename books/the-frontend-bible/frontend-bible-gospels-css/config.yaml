@@ -1,0 +1,17 @@
+title: "Frontend Bible: Gospels 3 - CSS"
+summary: "CSSの基礎文法からレイアウトの要諦まで。Cascade/Box Model/Flex/Gridを中心に。"
+topics: ["frontend", "css", "web", "layout", "beginner"]
+published: false
+toc_depth: 2
+price: 0
+chapters:
+  - intro
+  - css-basics
+  - cascade-specificity
+  - box-model
+  - typography-and-color
+  - flexbox
+  - grid
+  - responsive-design
+  - wrap-up
+allow_override: true

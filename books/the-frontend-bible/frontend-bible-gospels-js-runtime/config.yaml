@@ -1,0 +1,18 @@
+title: "Frontend Bible: Gospels 4 - JavaScript / Runtime"
+summary: "JavaScriptの基礎とブラウザ実行環境。DOM、イベント、非同期、通信の入口。"
+topics: ["frontend", "javascript", "web", "dom", "beginner"]
+published: false
+toc_depth: 2
+price: 0
+chapters:
+  - intro
+  - js-basics
+  - data-structures
+  - functions-and-scope
+  - dom-basics
+  - events
+  - async-basics
+  - fetch-and-api
+  - modules-intro
+  - wrap-up
+allow_override: true

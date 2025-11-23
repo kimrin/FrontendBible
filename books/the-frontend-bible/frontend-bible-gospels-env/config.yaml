@@ -1,0 +1,17 @@
+title: "Frontend Bible: Gospels 1 - Env"
+summary: "フロントエンドの『道具と作法』。開発環境、Git/GitHub、ブラウザ道具、最初の公開まで。"
+topics: ["frontend", "web", "git", "vscode", "beginner"]  # 5つまで
+published: false
+toc_depth: 2
+price: 0
+chapters:
+  - intro
+  - setup
+  - node-npm
+  - editor-vscode
+  - git-basics
+  - github-flow
+  - devtools-intro
+  - first-deploy
+  - wrap-up
+allow_override: true
